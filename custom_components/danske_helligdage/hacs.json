@@ -3,5 +3,6 @@
   "content_in_root": false,
   "domains": ["danske_helligdage"],
   "country": "dk",
-  "homeassistant": "2023.0.0"
+  "homeassistant": "2023.0.0",
+  "persistent_directory": "userfiles"
 }
